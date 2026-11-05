@@ -1,0 +1,8 @@
+__pycache__
+.pytest_cache
+*.db
+.venv
+.vercel
+requirements-dev.txt
+test_*.py
+run.bat
